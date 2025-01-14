@@ -15,10 +15,10 @@ class Program
         else if (percentage >= 80) {
             letter = "B";
         }
-        else if (percentage >= 70){
+        else if (percentage >= 70) {
             letter = "C";
         }
-        else if (percentage >= 60){
+        else if (percentage >= 60) {
             letter = "D";
         }
         else if (percentage < 60) {
