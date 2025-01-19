@@ -45,6 +45,7 @@ class Program
 
         foreach (int number in numberList) {
             Console.WriteLine(number);
+            
         }
     }
 }
