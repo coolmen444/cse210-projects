@@ -31,9 +31,6 @@ public class Word
         return _isHidden;
     }
 
-    public void setText()
-    {
-        
-    }
+  
 
 }
